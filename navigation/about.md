@@ -68,6 +68,9 @@ permalink: /about/
         container.appendChild(gridItem);
     }
 </script>
+### About my life
+My name is Jeongjun Kim. You don't need to know about me more.
+<img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" alt="Taegeuk | Asia Society"/>![image](https://github.com/user-attachments/assets/ed70afbb-7653-48f2-8cea-bae07d831aea)
 
 
 <script src="https://utteranc.es/client.js"
