@@ -3,7 +3,7 @@ import GameEnv from './GameEnv.js';
 // Define non-mutable constants as defaults
 const SCALE_FACTOR = 25; // 1/nth of the height of the canvas
 const STEP_FACTOR = 100; // 1/nth, or N steps up and across the canvas
-const ANIMATION_RATE = 1; // 1/nth of the frame rate
+const ANIMATION_RATE = 10; // 1/nth of the frame rate
 
 /**
  * Player is a dynamic class that manages the data and events for a player object.
