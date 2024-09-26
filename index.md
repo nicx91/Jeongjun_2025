@@ -1,11 +1,12 @@
 ---
 layout: base
-title: Student Home 
-description: Home Page
+title: Playground of Coder
+description: By Nicx9
 hide: false
 author: Jeongjun Kim
 ---
 
 
 ### Welcome!!!
-seems nothing is special
+I make some random webpage because I wanted.
+(Also some classworks too.)
