@@ -68,3 +68,13 @@ permalink: /about/
         container.appendChild(gridItem);
     }
 </script>
+
+
+<script src="https://utteranc.es/client.js"
+        repo="nicx91/jeongjun_2025"
+        issue-term="pathname"
+        label="blogpost-comment"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
