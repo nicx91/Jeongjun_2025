@@ -68,10 +68,12 @@ permalink: /about/
         container.appendChild(gridItem);
     }
 </script>
-### About my life
-My name is Jeongjun Kim. You don't need to know about me more.
+### About me
+My name is Jeongjun Kim. I think that's enough information about me.
 <img src="https://asiasociety.org/sites/default/files/styles/1200w/public/K/korean-flag.jpg" alt="Taegeuk | Asia Society"/>![image](https://github.com/user-attachments/assets/ed70afbb-7653-48f2-8cea-bae07d831aea)
-
+Lived in Korea for 11 years.
+<img src="https://cdn.britannica.com/79/4479-050-6EF87027/flag-Stars-and-Stripes-May-1-1795.jpg" alt="Flag of the United States of America | History, Meaning, Facts, &amp; Design |  Britannica"/>![image](https://github.com/user-attachments/assets/e24652b7-7fb5-4ee0-b870-ed751a061ea8)
+Living America for 3.5 years.
 
 <script src="https://utteranc.es/client.js"
         repo="nicx91/jeongjun_2025"
