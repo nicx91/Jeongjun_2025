@@ -75,6 +75,9 @@ Lived in Korea for 11 years.
 ![image](https://github.com/user-attachments/assets/06b3ddea-a575-431d-bc09-06bb5d11a3e7)
 Living America for 3.5 years.
 
+### About 
+###### Niger
+
 <script src="https://utteranc.es/client.js"
         repo="nicx91/jeongjun_2025"
         issue-term="pathname"
