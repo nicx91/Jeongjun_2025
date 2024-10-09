@@ -80,7 +80,7 @@ permalink: /snake/
     <div class="container bg-secondary" style="text-align:center;">
         <!-- Main Menu -->
         <div id="menu" class="py-4 text-light">
-            <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to begin</p>
+            <p>Welcome to Snake, press <span style="background-color: #FFFFFF; color: #000000">space</span> to start</p>
             <a id="new_game" class="link-alert">new game</a>
             <a id="setting_menu" class="link-alert">settings</a>
         </div>
@@ -361,8 +361,8 @@ permalink: /snake/
         // 150 = slow
         // 100 = normal
         // 50 = fast
-        let setSnakeSpeed = function(speed_value){
-            snake_speed = speed_value;
+        let setSnakeSpeed = function(snake_speed){
+            snake_speed = 100;
         }
         /////////////////////////////////////////////////////////////
         let setWall = function(wall_value){
