@@ -19,7 +19,7 @@ permalink: /rpg/
     // Sprite data
     const sprite_src = "{{site.baseurl}}/images/rpg/turtle.png";
     const sprite_data = {
-        SCALE_FACTOR: 100,
+        SCALE_FACTOR: 20,
         STEP_FACTOR: 1000,
         ANIMATION_RATE: 50,
         pixels: {height: 280, width: 256},
